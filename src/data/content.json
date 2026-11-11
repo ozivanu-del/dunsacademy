@@ -1,0 +1,7 @@
+{
+  "site": { "title": "Duns Academy — Public Speaking" },
+  "hero": { "eyebrow": "Duns Academy", "title": "Berani bicara, siap menginspirasi.", "description": "Kembangkan kemampuan public speaking dengan latihan yang praktis, terarah, dan relevan untuk dunia nyata.", "cta": "Lihat program" },
+  "about": { "eyebrow": "Tentang kami", "title": "Temukan suara terbaikmu.", "description": "Duns Academy membantu kamu menyampaikan ide dengan percaya diri, menyusun pesan yang kuat, dan tampil autentik di depan siapa pun." },
+  "program": { "eyebrow": "Program", "title": "Belajar dengan praktik nyata.", "description": "Pilih pengalaman belajar yang sesuai dengan tujuan komunikasimu." },
+  "contact": { "eyebrow": "Kontak", "title": "Siap naik level?", "description": "Ceritakan kebutuhanmu dan tim kami akan membantu menemukan program yang tepat.", "email": "hello@dunsacademy.com", "cta": "Hubungi kami" }
+}
